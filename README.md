@@ -1,5 +1,3 @@
-# Frog
-Frog
 # Disclaimer
 
 This project includes code that is related to encryption. By using this code, you acknowledge the following:
