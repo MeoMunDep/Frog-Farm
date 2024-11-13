@@ -32,6 +32,8 @@ To get started with the bot, follow these steps:
 
 ```json
 {
+  "isDoTasks": false,
+  "isPlayingGames": true,
   "ref": "6713068747", //your referral link, i dont if it can work or something
   "todayCode": "IDONTKNOW",
   "limit": 5, //number of accounts run in a row
