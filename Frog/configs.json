@@ -3,5 +3,7 @@
   "countdown": 300,
   "country_time": "en-US",
   "todayCode": "Gas Fees",
-  "ref": "6713068747"
+  "ref": "6713068747",
+  "isDoTasks": false,
+  "isPlayingGames": true
 }
